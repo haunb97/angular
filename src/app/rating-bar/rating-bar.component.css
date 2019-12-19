@@ -1,0 +1,12 @@
+.flex-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex-container > div {
+  background-color: steelblue;
+  width:80px;
+  margin: 10px;
+  text-align: center;
+  line-height: 65px;
+  font-size: 28px;
+}
